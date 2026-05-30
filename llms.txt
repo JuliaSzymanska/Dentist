@@ -1,0 +1,20 @@
+# NZOZ IKS-DENT
+
+> Gabinet stomatologiczny w Łodzi, działający od 1995 roku. Stomatologia zachowawcza, dziecięca, endodoncja pod mikroskopem, laseroterapia, ozonoterapia, protetyka. NFZ i prywatnie.
+
+Kontakt: (42) 642 9000, iksdent@iksdent.pl, ul. Tuszyńska 29 bl. 42, Łódź.
+
+## Pages
+
+- [Strona główna](/): Hero, usługi, zespół, cennik, galeria, FAQ, kontakt.
+- [Stomatologia zachowawcza i estetyczna](/uslugi/stomatologia-zachowawcza): Leczenie próchnicy, wypełnienia kompozytowe, licówki.
+- [Stomatologia dziecięca](/uslugi/stomatologia-dziecieca): Leczenie dzieci, lakowanie, fluoryzacja, wizyty adaptacyjne.
+- [Endodoncja](/uslugi/endodoncja): Leczenie kanałowe pod mikroskopem.
+- [Profilaktyka](/uslugi/profilaktyka): Skaling, piaskowanie, fluoryzacja, lakowanie, ICON.
+- [Wybielanie](/uslugi/wybielanie): Wybielanie nakładkowe i wybielanie zębów martwych.
+- [Protetyka](/uslugi/protetyka): Korony, mosty, licówki, protezy, szyny zgryzowe.
+- [Ozonoterapia](/uslugi/ozonoterapia): Bezbolesna dezynfekcja ozonem.
+- [Laseroterapia](/uslugi/laseroterapia): Leczenie laserem YAG-ERBOWYM, bez wiertarki.
+- [Radiowizjografia](/uslugi/radiowizjografia): Cyfrowe zdjęcia RTG (RVG).
+- [Zamówienia publiczne](/zamowienia-publiczne): Informacje o postępowaniach i dofinansowaniu UE.
+- [Praca](/praca): Oferty pracy i informacje o zespole.
