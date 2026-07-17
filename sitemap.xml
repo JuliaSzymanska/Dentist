@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/</loc>
+    <loc>https://iksdent.pl/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>/zamowienia-publiczne</loc>
+    <loc>https://iksdent.pl/zamowienia-publiczne</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/praca</loc>
+    <loc>https://iksdent.pl/praca</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/uslugi/stomatologia-zachowawcza</loc>
+    <loc>https://iksdent.pl/uslugi/stomatologia-zachowawcza</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>/uslugi/stomatologia-dziecieca</loc>
+    <loc>https://iksdent.pl/uslugi/stomatologia-dziecieca</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>/uslugi/endodoncja</loc>
+    <loc>https://iksdent.pl/uslugi/endodoncja</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>/uslugi/profilaktyka</loc>
+    <loc>https://iksdent.pl/uslugi/profilaktyka</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>/uslugi/wybielanie</loc>
+    <loc>https://iksdent.pl/uslugi/wybielanie</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>/uslugi/protetyka</loc>
+    <loc>https://iksdent.pl/uslugi/protetyka</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>/uslugi/ozonoterapia</loc>
+    <loc>https://iksdent.pl/uslugi/ozonoterapia</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>/uslugi/chirurgia</loc>
+    <loc>https://iksdent.pl/uslugi/chirurgia</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>/uslugi/radiowizjografia</loc>
+    <loc>https://iksdent.pl/uslugi/radiowizjografia</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
