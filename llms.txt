@@ -6,7 +6,8 @@ Kontakt: (42) 642 9000, iksdent@iksdent.pl, ul. Tuszyńska 29 bl. 42, Łódź.
 
 ## Pages
 
-- [Strona główna](/): Hero, usługi, zespół, cennik, galeria, FAQ, kontakt.
+- [Strona główna](/): Hero, usługi, zespół, galeria, FAQ, kontakt.
+- [Cennik](/cennik): Orientacyjny cennik usług — wypełnienia, endodoncja, protetyka, chirurgia, profilaktyka.
 - [Stomatologia zachowawcza i estetyczna](/uslugi/stomatologia-zachowawcza): Leczenie próchnicy, wypełnienia kompozytowe, licówki.
 - [Stomatologia dziecięca](/uslugi/stomatologia-dziecieca): Leczenie dzieci, lakowanie, fluoryzacja, wizyty adaptacyjne.
 - [Endodoncja](/uslugi/endodoncja): Leczenie kanałowe pod mikroskopem.
